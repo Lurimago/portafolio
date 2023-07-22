@@ -15,7 +15,7 @@ const Home = () => {
       </div> 
         
      <div className="home-content">
-         <h1>Hola, soy Luis Ricardo Marcelo Gómez</h1>
+         <h1>Hola, soy Luis Ricardo Marcelo</h1>
         <h3>
         <p>Soy
         <Typical
