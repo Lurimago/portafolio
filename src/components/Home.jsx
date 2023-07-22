@@ -1,5 +1,4 @@
 import "../styles/home.css";
-import Typical from 'react-typical'
 import imgPhotoCarnet from "../img/Foto carnet sin fondo.png";
 const Home = () => {
   return (
@@ -17,12 +16,7 @@ const Home = () => {
      <div className="home-content">
          <h1>Hola, soy Luis Ricardo Marcelo</h1>
         <h3>
-        <p>Soy
-        <Typical
-        steps={[' Ingeniero de Sistemas 👷', 2000, ' Full Stack Developer 💻', 2000,' QA Automation 🤖', 2000, ' Scrum Master 👨‍🏫', 2000 ]}
-        loop={Infinity}
-        wrapper="b"
-      /></p></h3>
+        <p>Soy</p></h3>
         <p>Joven apasionado por la tecnología, abriéndome camino en el increíble
 mundo de la programación, el testing y la agilidad, aprendiendo cada día algo nuevo...<br/>Soy como el salmón que va
 contracorriente, me adapto a los cambios, y afronto los nuevos desafíos.</p>
