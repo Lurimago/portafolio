@@ -14,9 +14,9 @@ const Home = () => {
       </div> 
         
      <div className="home-content">
-         <h1>Hola, soy Luis Ricardo Marcelo</h1>
+         <h1>Hola, soy Luis Ricardo Marcelo Gómez</h1>
         <h3>
-        <p>Soy</p></h3>
+        <p>Soy Ing. Sistemas e Informática, QA Automation y Full Stack Web Developer</p></h3>
         <p>Joven apasionado por la tecnología, abriéndome camino en el increíble
 mundo de la programación, el testing y la agilidad, aprendiendo cada día algo nuevo...<br/>Soy como el salmón que va
 contracorriente, me adapto a los cambios, y afronto los nuevos desafíos.</p>
